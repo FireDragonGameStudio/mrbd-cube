@@ -1,0 +1,29 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  width: 600px;
+  height: 600px;
+  overflow: hidden;
+  background: #000000; /* 100% transparent on waveguide */
+  color: #00FF88;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+#hud {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  pointer-events: none;
+  line-height: 1.4;
+}
+
+#status {
+  color: #00E5FF;
+  font-size: 11px;
+}
+
+canvas { display: block; width: 600px; height: 600px; }
