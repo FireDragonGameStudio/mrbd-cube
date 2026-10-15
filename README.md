@@ -117,6 +117,7 @@ Open the quick-settings panel on the glasses and select **Display recording**. I
 - [Meta Help – Record your display](https://www.meta.com/help/ai-glasses/951708387778102/)
 - [Three.js documentation](https://threejs.org/docs/)
 - [Vite server options](https://vite.dev/config/server-options)
+- [Meta Ray-Ban Display Web App Simulator](https://chromewebstore.google.com/detail/meta-ray-ban-display-simu/jpjlmmodokemlepklkdbimceggpbjcll)
 
 ## License
 
